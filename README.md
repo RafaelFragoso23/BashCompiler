@@ -10,4 +10,5 @@ O BashCompiler usa uma série de pacotes debian para o seu funcionamento, para b
 # Funcionamento
 Para utilizar o BashCompiler execute-o com os seus devidos parâmetros especificando o código fonte em c e um nome para o arquivo executável, assim como mostrado em:
 ```bash
+./compiler.sh -f arquivo.c -x executavel
 

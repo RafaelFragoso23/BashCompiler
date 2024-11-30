@@ -6,6 +6,8 @@ Compilador para linguagem C que mistura recursos de vários outros compiladores,
 
 # Dependências
 O BashCompiler usa uma série de pacotes debian para o seu funcionamento, para baixar-los automaticamente execute o código dependency.sh como super usuário.
+```bash
+sudo bash dependency.sh
 
 # Funcionamento
 Para utilizar o BashCompiler execute-o com os seus devidos parâmetros especificando o código fonte em c e um nome para o arquivo executável, assim como mostrado em:
